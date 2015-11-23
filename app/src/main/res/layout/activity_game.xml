@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.subzero.textingsimulator.GameActivity"
+    android:background="@drawable/game_background_2_new">
+
+    <LinearLayout
+        android:id="@+id/linear_title"
+        android:layout_width="fill_parent"
+        android:layout_height="46dp"
+        android:weightSum="7">
+
+        <ImageButton
+            android:id="@+id/back_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pause"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:onClick="pause"/>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Messages"
+            android:textSize="32sp"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:layout_weight="4"/>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/linear_title"
+        android:layout_marginTop="2dp">
+
+        <LinearLayout
+            android:id="@+id/linear_outer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        </LinearLayout>
+        </ScrollView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"></View>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/score_frame_new"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"/>
+
+        <ImageView
+            android:id="@+id/pointer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="34dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/pointer_new"/>
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"/>
+
+        <ImageView
+            android:id="@+id/mood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="21dp"
+            android:background="@drawable/neutral_new"/>
+
+        </LinearLayout>
+
+</RelativeLayout>

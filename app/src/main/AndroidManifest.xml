@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.subzero.textingsimulator"
+    android:installLocation="auto">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GameActivity"
+            android:label="@string/title_activity_game"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.subzero.textingsimulator.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MessagingActivity"
+            android:label="@string/title_activity_messaging"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".GameActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.subzero.textingsimulator.GameActivity" />
+        </activity>
+        <activity
+            android:name=".EndActivity"
+            android:label="EndActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.subzero.textingsimulator.MainActivity" />
+            </activity>
+    </application>
+
+</manifest>

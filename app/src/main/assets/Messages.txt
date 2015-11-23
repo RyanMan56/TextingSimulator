@@ -1,0 +1,21 @@
+1.
+
+#Hey it's Name! Haven't heard from you in a while, how have you been?
+!Hi! I've been good! How have you been?
+#I've been good thanks, want to grab a coffee sometime this week? 
+
+#Hey it's Name! Haven't heard from you in a while, how have you been?
+!Hey. Not very good. What about you?
+#Oh god I'm sorry to hear! What's up?
+
+#Hey it's Name! Haven't heard from you in a while, how have you been?
+!Hi. Not too bad! Would you like to go to town sometime?
+#Yeah it'd be great to catch up! See you soon buddy!
+
+#Hey it's Name! Haven't heard from you in a while, how have you been?
+!Hello. Yeah I've been really really good! You? I miss you!
+#That's fantastic! I've been great, thanks! I miss you loads! Let's go out next week!
+
+#Hey it's Name! Haven't heard from you in a while, how have you been?
+!Hello. I haven't been too great. I've been really ill. You? Is everything ok?
+#Oh I'm sorry to hear! What's up? Yeah everything's alright, want to chill with you soon though

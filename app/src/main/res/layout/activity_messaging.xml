@@ -1,0 +1,227 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/game_background_2_new"
+    tools:context="com.subzero.textingsimulator.MessagingActivity">
+
+    <LinearLayout
+        android:id="@+id/linear_title"
+        android:layout_width="fill_parent"
+        android:layout_height="46dp"
+        android:weightSum="7">
+        
+        <ImageButton
+            android:id="@+id/back_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/arrow_new"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:onClick="back"/>
+
+        <TextView
+            android:id="@+id/messaging_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Name"
+            android:textSize="32sp"
+            android:gravity="center"
+            android:layout_weight="4"/>
+        
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/linear_title"
+        android:layout_marginTop="2dp">
+
+        <ScrollView
+            android:id="@+id/messaging_scroll"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/messaging_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+                <!--android:background="#2ea5f4"
+                <TextView
+                    android:id="@+id/messaging_left_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/layout_bg"
+                    android:padding="5dp"
+                    android:text="Hey this is Ryan, just wondering if you're still up for tonight, haven't heard from you in a while"
+                    android:textSize="20sp" />
+                    -->
+
+            </LinearLayout>
+
+            <!--
+                <TextView
+                    android:id="@+id/messaging_right_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="100dp"
+                    android:background="@drawable/layout_bg_s"
+                    android:padding="5dp"
+                    android:text="Hey this is Ryan, just wondering if you're still up for tonight, haven't heard from you in a while"
+                    android:textSize="20sp" />
+            -->
+
+
+        </ScrollView>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#ffffff"
+                android:layout_weight="6"
+                android:text="Select a message..."
+                android:textSize="20sp"
+                android:textColor="#ababab"
+                android:gravity="center"
+                android:paddingRight="100dp"/>
+
+            <!--android:background="#141414"-->
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/keyboard"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/reply1"
+                    android:layout_width="150dp"
+                    android:layout_height="80dp"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="10dp"
+                    android:padding="5dp"
+                    android:background="@drawable/layout_bg_s"
+                    android:maxWidth="100dp"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit"/>
+
+                <TextView
+                    android:id="@+id/reply3"
+                    android:layout_width="150dp"
+                    android:layout_height="80dp"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="10dp"
+                    android:padding="5dp"
+                    android:background="@drawable/layout_bg_s"
+                    android:maxWidth="100dp"
+                    android:layout_below="@id/reply1"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit"/>
+
+
+                <TextView
+                    android:id="@+id/reply2"
+                    android:layout_width="150dp"
+                    android:layout_height="80dp"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="165dp"
+                    android:layout_marginTop="10dp"
+                    android:padding="5dp"
+                    android:background="@drawable/layout_bg_s"
+                    android:maxWidth="100dp"
+                    android:layout="@id/reply1"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit"/>
+
+                <TextView
+                    android:id="@+id/reply4"
+                    android:layout_width="150dp"
+                    android:layout_height="80dp"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="165dp"
+                    android:layout_marginTop="10dp"
+                    android:padding="5dp"
+                    android:background="@drawable/layout_bg_s"
+                    android:maxWidth="100dp"
+                    android:layout_below="@id/reply2"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit"/>
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"></View>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/score_frame_new"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"/>
+
+        <ImageView
+            android:id="@+id/messaging_pointer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="34dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/pointer_new"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"/>
+
+        <ImageView
+            android:id="@+id/mood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="21dp"
+            android:background="@drawable/neutral_new"/>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

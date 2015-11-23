@@ -1,0 +1,1626 @@
+<?xml version="1.0"?>
+<dialogue>
+	<conversation>
+		<message0>
+			<sent>false</sent>
+            <score>None</score>
+			<contents>Why don't you txt anymore :(</contents>
+			<message1>
+				<sent>true</sent>
+                <score>None</score>
+				<contents>I just don't like you</contents>
+				<message2>
+					<sent>false</sent>
+                    <score>Evil</score>
+					<contents>What the hell...</contents>
+				</message2>
+			</message1>
+			<message1>
+				<sent>true</sent>
+                <score>None</score>
+				<contents>I've been super busy... sorry...</contents>
+				<message2>
+					<sent>false</sent>
+                    <score>Excellent</score>
+					<contents>I'm always here for you, remember that</contents>
+				</message2>
+				<message2>
+					<sent>false</sent>
+                    <score>Bad</score>
+					<contents>That's no excuse...</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>I'm sorry, I'll try to make more of an effort</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Good</score>
+                            <contents>You'll have to do more than try! :)</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>I don't need to explain myself to you</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>And neither do I. Bye.</contents>
+                        </message4>
+                    </message3>
+				</message2>
+			</message1>
+		</message0>
+	</conversation>
+	<conversation>
+		<message0>
+			<sent>false</sent>
+            <score>None</score>
+			<contents>Which korea is bad korea north or south?</contents>
+			<message1>
+				<sent>true</sent>
+                <score>None</score>
+				<contents>South... obviously... duh...</contents>
+				<message2>
+					<sent>false</sent>
+                    <score>Excellent</score>
+					<contents>K thx... booking a holiday...</contents>
+				</message2>
+			</message1>
+			<message1>
+				<sent>true</sent>
+                <score>None</score>
+				<contents>North... obviously... duh...</contents>
+				<message2>
+					<sent>false</sent>
+                    <score>Excellent</score>
+					<contents>K thx... booking a holiday...</contents>
+				</message2>
+			</message1>
+		</message0>
+	</conversation>
+    <conversation>
+        <message0>
+            <sent>false</sent>
+            <score>None</score>
+            <contents>Hey man I'm trying to make a cake, I've preheated the oven but now what do I do?</contents>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Mix sugar and butter together</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Excellent</score>
+                    <contents>Okay, done, what next?</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Beat some eggs into the mixture</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>Okay, awesome, it's looking good already! Now what?</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Add a dozen more eggs</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>I feel like you're not taking this seriously... I'll ask someone else for help...</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Now add sugar and bake!</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>I followed your advice and it tastes a bit off... thanks anyway...</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Add some flour and bake!</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>Thanks so much for your help! It looks perfect! :D</contents>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Pour in a bit of flour</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>It looks awful... I need to get rid of this mess... don't even bother next time.</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Now just shove it in the oven</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>I followed your advice and it's just a total mess... thanks a lot...</contents>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Mix some eggs in a bowl!</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Bad</score>
+                    <contents>But what about the sugar and butter? Nevermind, I'll ask someone else!</contents>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Turn the oven off and just stop.</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Evil</score>
+                    <contents>Jesus.. last time I ask you for help! I'll ask a better friend!</contents>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Mix toothpaste and soap in a bowl</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Evil</score>
+                    <contents>I'm... I'm gonna ask someone else... thanks anyway I guess...</contents>
+                </message2>
+            </message1>
+        </message0>
+    </conversation>
+    <conversation>
+        <message0>
+            <sent>false</sent>
+            <score>None</score>
+            <contents>Oh the craziest thing happened to me last night! You'll never believe!</contents>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Not gonna lie, I don't really care</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Evil</score>
+                    <contents>You don't have to be so horrible...</contents>
+                </message2>
+                <message2>
+                    <sent>false</sent>
+                    <score>Evil</score>
+                    <contents>Well I don't care about you! I only message you because I feel sorry for you!</contents>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Woah, what happened??</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Excellent</score>
+                    <contents>A leprechaun stumbled out of a pub and walked right out in front of a car!</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>#ThatHappened</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>No seriously it actually did!!</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Oh no! Is he going to be alright?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>I wouldn't count on it, the car hit him seven ways to Tuesday!</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Isn't a dead leprechaun supposed to bring bad luck?</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Good</score>
+                                    <contents>I can honestly say I've never heard that one before</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>That's awful!</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>It wasn't all bad, he did drop his pot of gold >:D</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Shame it wasn't you</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Evil</score>
+                                    <contents>What is wrong with you??</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>I'm still not sure I believe you</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>Well whatever, I'm not going to beg you to believe me</contents>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+        </message0>
+    </conversation>
+    <conversation>
+        <message0>
+            <sent>false</sent>
+            <score>None</score>
+            <contents>Hey can you go to the shop for me?</contents>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Nope</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Evil</score>
+                    <contents>You're not even going to hear me out?</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>I wouldn't bet on it</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Evil</score>
+                            <contents>Why are you even like this...</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Uh, fine, what do you need?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>Thank you! I'm gonna need some milk, eggs, chicken and ice cream</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Alright, I'll see what I can do</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>You. Are. A. LIFESAVER!</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>On second thought... I'm a little busy</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>Way to ruin my mood...</contents>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Well why can't you go?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Meh</score>
+                            <contents>I broke my leg the other day and can't get out of the house </contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>I'm sorry but you'll need to ask someone else</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>Man... I thought I could count on you for anything</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Oh man I'm so sorry! What do you need?</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>Thank you! I'm gonna need some milk, eggs, chicken and ice cream</contents>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Alright, I'll see what I can do</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Excellent</score>
+                                            <contents>You. Are. A. LIFESAVER!</contents>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>On second thought I'm a little busy...</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Bad</score>
+                                            <contents>Way to ruin my mood...</contents>
+                                        </message8>
+                                    </message7>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Can't you go?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Meh</score>
+                    <contents>I wouldn't ask if I could! I broke my leg and can't get out the house</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>I'm sorry but you'll need to ask someone else</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>Man... I thought I could count on you for anything</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Oh man I'm so sorry! What do you need?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>Thank you! I'm gonna need some milk, eggs, chicken and ice cream</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Alright, I'll see what I can do</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>You. Are. A. LIFESAVER!</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>On second thought... I'm a little busy</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>Way to ruin my mood...</contents>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Yeah sure, what for?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Excellent</score>
+                    <contents>Thank you! I'm gonna need some milk, eggs, chicken and ice cream</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Alright, I'll see what I can do</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>You. Are. A. LIFESAVER!</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>On second thought... I'm a little busy</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>Way to ruin my mood...</contents>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+        </message0>
+    </conversation>
+    <conversation>
+        <message0>
+            <sent>false</sent>
+            <score>None</score>
+            <contents>Hey can I talk to you about something important?</contents>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Yeah of course, what's up?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Excellent</score>
+                    <contents>Okay thanks, well there's this girl...</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Alright, well how did you two meet?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>We met at a café and got talking while waiting for our drinks</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Oh how cliché</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Evil</score>
+                                    <contents>It's hardly my choice how I meet somebody. Save your breath, I'll ask someone else.</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Sounds nice, so what do you need help with?</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>Well... how do I tell if she likes me??</contents>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Considering it's you... she doesn't.</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Evil</score>
+                                            <contents>Huh... Thanks for that...</contents>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Well does she act differently towards you?</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Excellent</score>
+                                            <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Hmm, I don't know :/</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Bad</score>
+                                                    <contents>Oh right :(</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Lol that's so stupid</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Evil</score>
+                                                    <contents>What the hell?!</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Then it's your lucky day my friend :)</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Excellent</score>
+                                                    <contents>You think so?? This is just what I needed :D</contents>
+                                                </message10>
+                                            </message9>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Ah man who knows</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Bad</score>
+                                            <contents>Well I was kinda hoping that you would... but nevermind I guess...</contents>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Just ask her!</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Meh</score>
+                                            <contents>What just like that?</contents>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Yeah man why not?!</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Bad</score>
+                                                    <contents>Because she might not?!</contents>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Well at least you'll know!</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Bad</score>
+                                                            <contents>Jesus, no!! Thanks for the help though I guess</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Yeah maybe not then, does she act differently towards you?</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Excellent</score>
+                                                            <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                                            <message13>
+                                                                <sent>true</sent>
+                                                                <score>None</score>
+                                                                <contents>Hmm, I don't know :/</contents>
+                                                                <message14>
+                                                                    <sent>false</sent>
+                                                                    <score>Bad</score>
+                                                                    <contents>Oh right :(</contents>
+                                                                </message14>
+                                                            </message13>
+                                                            <message13>
+                                                                <sent>true</sent>
+                                                                <score>None</score>
+                                                                <contents>Lol that's so stupid</contents>
+                                                                <message14>
+                                                                    <sent>false</sent>
+                                                                    <score>Evil</score>
+                                                                    <contents>What the hell?!</contents>
+                                                                </message14>
+                                                            </message13>
+                                                            <message13>
+                                                                <sent>true</sent>
+                                                                <score>None</score>
+                                                                <contents>Then it's your lucky day my friend :)</contents>
+                                                                <message14>
+                                                                    <sent>false</sent>
+                                                                    <score>Excellent</score>
+                                                                    <contents>You think so?? This is just what I needed :D</contents>
+                                                                </message14>
+                                                            </message13>
+                                                        </message12>
+                                                    </message11>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Hmm maybe not, does she act differently towards you?</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Excellent</score>
+                                                    <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Hmm, I don't know :/</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Bad</score>
+                                                            <contents>Oh right :(</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Lol that's so stupid</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Evil</score>
+                                                            <contents>What the hell?!</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Then it's your lucky day my friend :)</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Excellent</score>
+                                                            <contents>You think so?? This is just what I needed :D</contents>
+                                                        </message12>
+                                                    </message11>
+                                                </message10>
+                                            </message9>
+                                        </message8>
+                                    </message7>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Let me guess, you like her but she doesn't like you</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>That's quite the assumption... This isn't really helping, I'll ask Steve instead</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>I don't think I'm the right person to talk to about this</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>But you've helped me before! I guess you're just not bothered this time, I'll ask Steve. At least Steve cares.</contents>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Oh no, not this again...</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Evil</score>
+                            <contents>What the hell?! Man you used to be cool</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>What's the problem?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>Well... how do I tell if she likes me??</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Considering it's you... she doesn't.</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Evil</score>
+                                    <contents>Huh... Thanks for that...</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Well does she act differently towards you?</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Hmm, I don't know :/</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Bad</score>
+                                            <contents>Oh right :(</contents>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Lol that's so stupid</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Evil</score>
+                                            <contents>What the hell?!</contents>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Then it's your lucky day my friend :)</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Excellent</score>
+                                            <contents>You think so?? This is just what I needed :D</contents>
+                                        </message8>
+                                    </message7>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Ah man who knows</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>Well I was kinda hoping that you would... but nevermind I guess...</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Just ask her!</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Meh</score>
+                                    <contents>What just like that?</contents>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Yeah man why not?!</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Bad</score>
+                                            <contents>Because she might not?!</contents>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Well at least you'll know!</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Bad</score>
+                                                    <contents>Jesus, no!! Thanks for the help though I guess</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Yeah maybe not then, does she act differently towards you?</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Excellent</score>
+                                                    <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Hmm, I don't know :/</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Bad</score>
+                                                            <contents>Oh right :(</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Lol that's so stupid</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Evil</score>
+                                                            <contents>What the hell?!</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Then it's your lucky day my friend :)</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Excellent</score>
+                                                            <contents>You think so?? This is just what I needed :D</contents>
+                                                        </message12>
+                                                    </message11>
+                                                </message10>
+                                            </message9>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Hmm maybe not, does she act differently towards you?</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Excellent</score>
+                                            <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Hmm, I don't know :/</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Bad</score>
+                                                    <contents>Oh right :(</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Lol that's so stupid</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Evil</score>
+                                                    <contents>What the hell?!</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Then it's your lucky day my friend :)</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Excellent</score>
+                                                    <contents>You think so?? This is just what I needed :D</contents>
+                                                </message10>
+                                            </message9>
+                                        </message8>
+                                    </message7>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Not right now, I'm kinda busy</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Bad</score>
+                    <contents>Oh right sorry, I'll ask Steve</contents>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Erm, I guess so, what's up?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Meh</score>
+                    <contents>You sure you're not busy? Well there's this girl...</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Alright, well how did you two meet?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>We met at a café and got talking while waiting for our drinks</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Oh how cliché</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Evil</score>
+                                    <contents>It's hardly my choice how I meet somebody. Save your breath, I'll ask someone else.</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Sounds nice, so what do you need help with?</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>Well... how do I tell if she likes me??</contents>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Considering it's you... she doesn't.</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Evil</score>
+                                            <contents>Huh... Thanks for that...</contents>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Well does she act differently towards you?</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Excellent</score>
+                                            <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Hmm, I don't know :/</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Bad</score>
+                                                    <contents>Oh right :(</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Lol that's so stupid</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Evil</score>
+                                                    <contents>What the hell?!</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Then it's your lucky day my friend :)</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Excellent</score>
+                                                    <contents>You think so?? This is just what I needed :D</contents>
+                                                </message10>
+                                            </message9>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Ah man who knows</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Bad</score>
+                                            <contents>Well I was kinda hoping that you would... but nevermind I guess...</contents>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Just ask her!</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Meh</score>
+                                            <contents>What just like that?</contents>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Yeah man why not?!</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Bad</score>
+                                                    <contents>Because she might not?!</contents>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Well at least you'll know!</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Bad</score>
+                                                            <contents>Jesus, no!! Thanks for the help though I guess</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Yeah maybe not then, does she act differently towards you?</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Excellent</score>
+                                                            <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                                            <message13>
+                                                                <sent>true</sent>
+                                                                <score>None</score>
+                                                                <contents>Hmm, I don't know :/</contents>
+                                                                <message14>
+                                                                    <sent>false</sent>
+                                                                    <score>Bad</score>
+                                                                    <contents>Oh right :(</contents>
+                                                                </message14>
+                                                            </message13>
+                                                            <message13>
+                                                                <sent>true</sent>
+                                                                <score>None</score>
+                                                                <contents>Lol that's so stupid</contents>
+                                                                <message14>
+                                                                    <sent>false</sent>
+                                                                    <score>Evil</score>
+                                                                    <contents>What the hell?!</contents>
+                                                                </message14>
+                                                            </message13>
+                                                            <message13>
+                                                                <sent>true</sent>
+                                                                <score>None</score>
+                                                                <contents>Then it's your lucky day my friend :)</contents>
+                                                                <message14>
+                                                                    <sent>false</sent>
+                                                                    <score>Excellent</score>
+                                                                    <contents>You think so?? This is just what I needed :D</contents>
+                                                                </message14>
+                                                            </message13>
+                                                        </message12>
+                                                    </message11>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Hmm maybe not, does she act differently towards you?</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Excellent</score>
+                                                    <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Hmm, I don't know :/</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Bad</score>
+                                                            <contents>Oh right :(</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Lol that's so stupid</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Evil</score>
+                                                            <contents>What the hell?!</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Then it's your lucky day my friend :)</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Excellent</score>
+                                                            <contents>You think so?? This is just what I needed :D</contents>
+                                                        </message12>
+                                                    </message11>
+                                                </message10>
+                                            </message9>
+                                        </message8>
+                                    </message7>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Let me guess, you like her but she doesn't like you</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>That's quite the assumption... This isn't really helping, I'll ask Steve instead</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>I don't think I'm the right person to talk to about this</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>But you've helped me before! I guess you're just not bothered this time, I'll ask Steve. At least Steve cares.</contents>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Oh no, not this again...</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Evil</score>
+                            <contents>What the hell?! Man you used to be cool</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>What's the problem?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>Well... how do I tell if she likes me??</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Considering it's you... she doesn't.</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Evil</score>
+                                    <contents>Huh... Thanks for that...</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Well does she act differently towards you?</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Hmm, I don't know :/</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Bad</score>
+                                            <contents>Oh right :(</contents>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Lol that's so stupid</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Evil</score>
+                                            <contents>What the hell?!</contents>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Then it's your lucky day my friend :)</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Excellent</score>
+                                            <contents>You think so?? This is just what I needed :D</contents>
+                                        </message8>
+                                    </message7>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Ah man who knows</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>Well I was kinda hoping that you would... but nevermind I guess...</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Just ask her!</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Meh</score>
+                                    <contents>What just like that?</contents>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Yeah man why not?!</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Bad</score>
+                                            <contents>Because she might not?!</contents>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Well at least you'll know!</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Bad</score>
+                                                    <contents>Jesus, no!! Thanks for the help though I guess</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Yeah maybe not then, does she act differently towards you?</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Excellent</score>
+                                                    <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Hmm, I don't know :/</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Bad</score>
+                                                            <contents>Oh right :(</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Lol that's so stupid</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Evil</score>
+                                                            <contents>What the hell?!</contents>
+                                                        </message12>
+                                                    </message11>
+                                                    <message11>
+                                                        <sent>true</sent>
+                                                        <score>None</score>
+                                                        <contents>Then it's your lucky day my friend :)</contents>
+                                                        <message12>
+                                                            <sent>false</sent>
+                                                            <score>Excellent</score>
+                                                            <contents>You think so?? This is just what I needed :D</contents>
+                                                        </message12>
+                                                    </message11>
+                                                </message10>
+                                            </message9>
+                                        </message8>
+                                    </message7>
+                                    <message7>
+                                        <sent>true</sent>
+                                        <score>None</score>
+                                        <contents>Hmm maybe not, does she act differently towards you?</contents>
+                                        <message8>
+                                            <sent>false</sent>
+                                            <score>Excellent</score>
+                                            <contents>Well she smiles more with me and she looks at me first when she tells a joke in a group</contents>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Hmm, I don't know :/</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Bad</score>
+                                                    <contents>Oh right :(</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Lol that's so stupid</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Evil</score>
+                                                    <contents>What the hell?!</contents>
+                                                </message10>
+                                            </message9>
+                                            <message9>
+                                                <sent>true</sent>
+                                                <score>None</score>
+                                                <contents>Then it's your lucky day my friend :)</contents>
+                                                <message10>
+                                                    <sent>false</sent>
+                                                    <score>Excellent</score>
+                                                    <contents>You think so?? This is just what I needed :D</contents>
+                                                </message10>
+                                            </message9>
+                                        </message8>
+                                    </message7>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+        </message0>
+    </conversation>
+    <conversation>
+        <message0>
+            <sent>false</sent>
+            <score>None</score>
+            <contents>Hello! Could I get some advice on something?</contents>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Sure! If you ask someone else.</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Evil</score>
+                    <contents>Looks like I'll be doing that then</contents>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Yeah of course, what's up?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Excellent</score>
+                    <contents>I've been chatting with this guy and I want to be more than just friends with him</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>What kind of guy is he?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>He's kind of a geek, plays games and likes good music. He's lovely</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Why don't you ask him out for coffee and see where things go?</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Good</score>
+                                    <contents>Yeah I guess so, I'll let you know how that goes</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Go out to a club with him and see how that goes</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>He's not the kind of guy who'd enjoy that, but thanks anyway</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Why don't you hold a game and movie night?</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Excellent</score>
+                                    <contents>That's a great idea! I'll buy some popcorn and drinks in preparation! :D</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>Gamescom's in a couple of weeks, take him there</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>That's way too far and you know I don't have a job! Thanks for trying though</contents>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Why don't you ask him out for a coffee?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Good</score>
+                            <contents>Yeah I guess, I'll let you know how it goes</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Are you sure you're ready for another relationship?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>Yes, I'm sure. And for the record I really don't need reminding of him all the time thanks.</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>I don't want to waste my time with this</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Evil</score>
+                            <contents>What, with helping me? Is that how you see it?</contents>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+        </message0>
+    </conversation>
+    <conversation>
+        <message0>
+            <sent>false</sent>
+            <score>None</score>
+            <contents>I need to tell you something...</contents>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>What have you done?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Bad</score>
+                    <contents>I haven't done anything... But thanks for assuming "friend"</contents>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>What are you feeling?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Excellent</score>
+                    <contents>You're right on point there, well to cut a long story short I'm attracted to the opposite sex...</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>You're gay?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>Yeah, is that a problem?</contents>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>No not at all! It's no different to me</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Good</score>
+                                    <contents>Really? I'm glad I've finally let it out in the open! Thanks :)</contents>
+                                </message6>
+                            </message5>
+                            <message5>
+                                <sent>true</sent>
+                                <score>None</score>
+                                <contents>It's fine</contents>
+                                <message6>
+                                    <sent>false</sent>
+                                    <score>Bad</score>
+                                    <contents>Wow could you sound any less sincere?</contents>
+                                </message6>
+                            </message5>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>So... I have a gay friend now? :D</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>Yes indeed you do! I knew I was right to come to you! Thanks for being such a great friend! :)</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Eh, really?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>Oh... I thought at least you would be understanding about this... Well here come 5 more years of repression</contents>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>What have I done?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Bad</score>
+                    <contents>Oh stop making everything about you! This conversation is over.</contents>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Why should I care?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Evil</score>
+                    <contents>Because I thought you were my friend, that's why, but not anymore!</contents>
+                </message2>
+            </message1>
+        </message0>
+    </conversation>
+    <conversation>
+        <message0>
+            <sent>false</sent>
+            <score>None</score>
+            <contents>Hey I just got a job! :D</contents>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Well done!</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Good</score>
+                    <contents>Thanks!</contents>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>You were looking for one?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Bad</score>
+                    <contents>Yes! You know I've been looking for one for weeks!</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Well congratulations I guess</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Meh</score>
+                            <contents>Thanks, I guess...</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Huh I never knew</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Bad</score>
+                            <contents>What the hell! I told you about my job hunt all the time!</contents>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Yay finally! Doing what?</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Excellent</score>
+                    <contents>It looks like all my efforts finally paid off haha! I'm working at the café in the zoo!</contents>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Who's your boss? A monkey?</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Evil</score>
+                            <contents>I'd rather work for a monkey than be a fat pig.</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>I'll have to drop by sometime!</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Excellent</score>
+                            <contents>Yeah that'd be great! :)</contents>
+                        </message4>
+                    </message3>
+                    <message3>
+                        <sent>true</sent>
+                        <score>None</score>
+                        <contents>Well done!</contents>
+                        <message4>
+                            <sent>false</sent>
+                            <score>Good</score>
+                            <contents>Thank you!</contents>
+                        </message4>
+                    </message3>
+                </message2>
+            </message1>
+            <message1>
+                <sent>true</sent>
+                <score>None</score>
+                <contents>Oh man I'd hate to be your manager</contents>
+                <message2>
+                    <sent>false</sent>
+                    <score>Evil</score>
+                    <contents>Screw you man! Can't you just be happy for me for once?</contents>
+                </message2>
+            </message1>
+        </message0>
+    </conversation>
+</dialogue>

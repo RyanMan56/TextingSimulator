@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <ImageView
+        android:id="@+id/paused_header"
+        android:src="@drawable/paused"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:scaleType="center"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:id="@+id/time_survived"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seconds Survived:"
+        android:layout_below="@id/paused_header"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="28sp"/>
+
+    <LinearLayout
+        android:id="@+id/score_text_holder_holder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/time_survived"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:id="@+id/score_text_holder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/score_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Score: "
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                />
+
+            <TextView
+                android:id="@+id/highScore_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="High Score: "
+                android:textSize="18sp"
+                android:layout_gravity="center"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical"
+            android:layout_below="@id/paused_header"
+            android:layout_toRightOf="@id/score_text_holder">
+
+            <TextView
+                android:id="@+id/current_score_pause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="24"
+                android:textSize="18sp"
+
+                />
+
+            <TextView
+                android:id="@+id/high_score_pause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="112"
+                android:textSize="18sp"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/text_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/time_survived"
+        android:layout_marginTop="80dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Sound"
+            android:textSize="18sp"
+            android:gravity="center"
+
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Music"
+            android:textSize="18sp"
+            android:gravity="center"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/seekbar_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/text_holder">
+
+        <SeekBar
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            />
+
+        <SeekBar
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            />
+
+        </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/seekbar_holder"
+        android:text="Instructions"
+        android:textSize="28sp"
+        android:background="@drawable/layout_bg_s"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"/>
+
+</RelativeLayout>
